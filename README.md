@@ -1,3 +1,2 @@
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJ4bGk4YnZ2eGE3Y3c5ejliajljNGF5YjBjMXIxZXR6cDc1cjd4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2gSV1FB89mF2iAvh2v/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJ4bGk4YnZ2eGE3Y3c5ejliajljNGF5YjBjMXIxZXR6cDc1cjd4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2gSV1FB89mF2iAvh2v/giphy.gif" width="100"/>
-</div>
+
+<iframe src="https://giphy.com/embed/2gSV1FB89mF2iAvh2v" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/periods-xyz-2gSV1FB89mF2iAvh2v">via GIPHY</a></p>
