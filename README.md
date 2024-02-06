@@ -1,4 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dominik Cedro=====================================================================================================================================Medical Informatics Student---------------------------I study biomedical informatics at Wrocław University of Science and Technology. Currently looking for new challenges in backend or mobile app development. I'm intrested in low level languages like assembly and processing medical data from sensors.* 🌍  I'm based in Wrocław, Poland* ✉️  You can contact me at [dominikcedroo@gmail.com](mailto:dominikcedroo@gmail.com)* 🚀  I'm currently working on [3D Print Manager App](http://github.com/dominikcedro/PrinttManager)* 🧠  I'm learning React, Kotlin, Assembly* 🤝  I'm open to collaborating on intresting projects
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dominik Cedro
+=====================================================================================================================================
+Medical Informatics Student
+---------------------------
+I study biomedical informatics at Wrocław University of Science and Technology. Currently looking for new challenges in backend or mobile app development. I'm intrested in low level languages like assembly and processing medical data from sensors.
+* 🌍  I'm based in Wrocław, Poland* ✉️  You can contact me at [dominikcedroo@gmail.com](mailto:dominikcedroo@gmail.com)
+* 🚀  I'm currently working on [3D Print Manager App](http://github.com/dominikcedro/PrinttManager)
+* 🧠  I'm learning React, Kotlin, Assembly
+* 🤝  I'm open to collaborating on intresting projects
 
 ### Skills
 
@@ -15,4 +23,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="http://www.github.com/dominikcedro"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dominikcedro&stroke=ffffff&background=171717&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/dominikcedro"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=dominikcedro&bg_color=171717&color=ffffff&line=10b981&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/dominikcedro/RaspberryPulseSensor" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikcedro&repo=RaspberryPulseSensor&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/dominikcedro/AdventOfCodeTranslation" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikcedro&repo=AdventOfCodeTranslation&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/dominikcedro/3dprintmanager" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikcedro&repo=3dprintmanager&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=171717&hide_border=true&locale=en" /></a></div>
