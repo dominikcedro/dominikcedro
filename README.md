@@ -1,6 +1,7 @@
-![](https://vbr.nathanchung.dev/badge?page_id=dominikcedro&lcolor=5ce1e6&color=555555&style=for-the-badge&logo=Github&hit=false)  
-
-![](https://komarev.com/ghpvc/?username=your-github-dominikcedro&style=for-the-badge&color=5ce1e6)
+<div align="center">  
+      <img src="https://komarev.com/ghpvc/?username=your-github-dominikcedro&style=for-the-badge&color=1bacb1"/>
+ <br>
+</div>
 
 <div style="text-align:center;">
       <img src="./welcome.gif" alt="Your GIF Alt Text" />
