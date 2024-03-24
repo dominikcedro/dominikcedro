@@ -33,12 +33,12 @@ I'm interested in collaborating on projects, this way I want to gain experience 
 
 
 ## My top projects
-#### :strawberry: raspberryPi  
+#### :strawberry: [raspberryPi](https://github.com/dominikcedro/RaspberryPulseSensor) :strawberry:  
 Python app written for Raspberry Pi 3A+ to connect with MAX30102 pulsemeter. Created with python numpy, matplotlib and Tkinter libraries. It was a great occasion to learn Raspbian linux distro.
-#### :iphone: ProjectManager 
+#### :iphone: [ProjectManager](https://github.com/dominikcedro/3DPrintManager) :iphone:
 *** under construction ***  
 Android app created for my scientific club. It is meant to manage time spent printing on 3d printers to let multiple users use those defices efficiently. App is written in Kotlin, XML, Firebase is providing key functionalities (auth, database).
-#### :dollar: finance manager  
+#### :dollar: [finance manager](https://github.com/dominikcedro/FinanceManagerApp) :dollar:
 *** under construction ***  
 Python App for desktop users meant to help with financial operations. App will store data in database and provide user with financial analysis of his incomes and outcomes based on category / place / amount of money spent.
 
@@ -94,3 +94,16 @@ Python App for desktop users meant to help with financial operations. App will s
 
 <br>
 </div>
+
+##
+<div align="center">
+	Things I have been up to lately...
+</div>
+<div align="center" style="border-radius: 10px; overflow: hidden;">
+  <img width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhhM2hteDd0eDVyaXVja2lpZ2JkdncyeHpnbm4za3ZlZnRoNmhjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif" style="max-width: 100%; height: auto;" />
+</div>  
+
+
+
+
+
