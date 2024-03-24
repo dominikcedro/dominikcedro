@@ -1,4 +1,7 @@
 ![](https://vbr.nathanchung.dev/badge?page_id=dominikcedro&lcolor=5ce1e6&color=555555&style=for-the-badge&logo=Github&hit=false)  
+
+![](https://komarev.com/ghpvc/?username=your-github-dominikcedro&style=for-the-badge&color=5ce1e6)
+
 <div style="text-align:center;">
       <img src="./welcome.gif" alt="Your GIF Alt Text" />
 </div>
@@ -6,7 +9,11 @@
 ## About me...
 I'm studying Medical Informatics in Wrocław University of Technology. My main interests in programming are writing applications in Python, mobile solutions in Kotlin and embedded projects in microPython.  I thrive on the thrill of mastering new technologies and tackling real-world challenges head-on. When I'm not coding, you may find me climbing or hiking.
 
-## You may find me here:
+#
+
+<div style="text-align:center;">
+      <img src="./contacts.gif" alt="Your GIF Alt Text" />
+</div>
 
 <div align="center"> 
   <a href="mailto:dominikcedroo@gmail.com">
@@ -30,9 +37,12 @@ I'm studying Medical Informatics in Wrocław University of Technology. My main i
 I'm interested in collaborating on projects, this way I want to gain experience in my sector. Feel free to contact me anytime, even to ask about details of my projects. (Click the badge to open the links. I have two emails, one on the right is my university mail.)
 
 
+#
 
+<div style="text-align:center;">
+      <img src="./projects.gif" alt="Your GIF Alt Text" />
+</div>
 
-## My top projects
 #### :strawberry: [raspberryPi](https://github.com/dominikcedro/RaspberryPulseSensor) :strawberry:  
 Python app written for Raspberry Pi 3A+ to connect with MAX30102 pulsemeter. Created with python numpy, matplotlib and Tkinter libraries. It was a great occasion to learn Raspbian linux distro.
 #### :iphone: [ProjectManager](https://github.com/dominikcedro/3DPrintManager) :iphone:
@@ -42,7 +52,11 @@ Android app created for my scientific club. It is meant to manage time spent pri
 *** under construction ***  
 Python App for desktop users meant to help with financial operations. App will store data in database and provide user with financial analysis of his incomes and outcomes based on category / place / amount of money spent.
 
-## Technologies
+#
+
+<div style="text-align:center;">
+      <img src="./technologies.gif" alt="Your GIF Alt Text" />
+</div>
 
 <h2 align="center">  Experienced :mechanical_arm: </h2>
 
@@ -84,8 +98,13 @@ Python App for desktop users meant to help with financial operations. App will s
 
 
 
+#
 
-## Statistics
+<div style="text-align:center;">
+      <img src="./stats.gif" alt="Your GIF Alt Text" />
+</div>
+
+
 <br/>
 <div align="center">
 <img width="500" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=dominikcedro&theme=algolia&hide_border=false"/>
