@@ -1,35 +1,96 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dominik Cedro
-=====================================================================================================================================
-Medical Informatics Student
----------------------------
-I'm studying biomedical informatics at Wrocław University of Science and Technology. Currently looking for new challenges in backend or mobile app development. I'm intrested in low level languages like assembly and processing medical data from sensors.
-* 🌍  I'm based in Wrocław, Poland* ✉️  You can contact me at [dominikcedroo@gmail.com](mailto:dominikcedroo@gmail.com)
-* 🚀  I'm currently working on [3D Print Manager App](http://github.com/dominikcedro/PrinttManager)
-* 🧠  I'm learning React, Kotlin, Assembly
-* 🤝  I'm open to collaborating on intresting projects
+![](https://vbr.nathanchung.dev/badge?page_id=dominikcedro&lcolor=5ce1e6&color=555555&style=for-the-badge&logo=Github&hit=false)  
+<div style="text-align:center;">
+      <img src="./welcome.gif" alt="Your GIF Alt Text" />
+</div>
 
-### Skills
+## About me...
+I'm studying Medical Informatics in Wrocław University of Technology. My main interests in programming are writing applications in Python, mobile solutions in Kotlin and embedded projects in microPython.  I thrive on the thrill of mastering new technologies and tackling real-world challenges head-on. When I'm not coding, you may find me climbing or hiking.
+
+## You may find me here:
+
+<div align="center"> 
+  <a href="mailto:dominikcedroo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="mailto:275306@student.pwr.edu.pl">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=grey&color=grey" />
+  </a>
+  <a href="https://stackoverflow.com/users/22790179/cerodanim">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ignacy-berent-74b355278" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <!--
+  <a href="" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+I'm interested in collaborating on projects, this way I want to gain experience in my sector. Feel free to contact me anytime, even to ask about details of my projects. (Click the badge to open the links. I have two emails, one on the right is my university mail.)
 
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a></p>
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/dominikcedro" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/dominik-cedro-ba2a27211/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+## My top projects
+#### :strawberry: raspberryPi  
+Python app written for Raspberry Pi 3A+ to connect with MAX30102 pulsemeter. Created with python numpy, matplotlib and Tkinter libraries. It was a great occasion to learn Raspbian linux distro.
+#### :iphone: ProjectManager 
+*** under construction ***  
+Android app created for my scientific club. It is meant to manage time spent printing on 3d printers to let multiple users use those defices efficiently. App is written in Kotlin, XML, Firebase is providing key functionalities (auth, database).
+#### :dollar: finance manager  
+*** under construction ***  
+Python App for desktop users meant to help with financial operations. App will store data in database and provide user with financial analysis of his incomes and outcomes based on category / place / amount of money spent.
 
-### Badges
+## Technologies
 
-<b>My GitHub Stats</b>
+<h2 align="center">  Experienced :mechanical_arm: </h2>
 
-<a href="http://www.github.com/dominikcedro"><img src="https://github-readme-stats.vercel.app/api?username=dominikcedro&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=171717&hide_border=true&show_icons=true" alt="dominikcedro's GitHub stats" /></a>
+<br/>
+<div align="center">
+    <img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+<img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
+<img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
+<img width="50" src="https://user-images.githubusercontent.com/25181517/182884027-02cf00e4-6ac5-49a8-816d-3287a26bc5b4.png" alt="neo4j" title="neo4j"/></code>
+<img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
+<img width="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/></code>
+<img width="50" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="pytest" title="pytest"/></code>
+<img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
+  <br>
+</div>
 
-<a href="http://www.github.com/dominikcedro"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dominikcedro&stroke=ffffff&background=171717&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<h2 align="center">  Familiar :eyes: </h2>
 
-<b>Top Repositories</b>
+<br/>
+<div align="center">
+<img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
+<img width="50" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin"/></code>
+<img width="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/></code>
+<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
+<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/></code>
+ <br>
+</div>
 
-<div width="100%" align="center"><a href="https://github.com/dominikcedro/RaspberryPulseSensor" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikcedro&repo=RaspberryPulseSensor&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/dominikcedro/AdventOfCodeTranslation" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikcedro&repo=AdventOfCodeTranslation&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<h2 align="center">  Learning 📖 </h2>
 
-<br /><br /><br /><br /><br />
+<br/>
+<div align="center">  
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/>  
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>  
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>  
+ 
+ <br>
+</div>
 
-<div width="100%" align="center"><a href="https://github.com/dominikcedro/3dprintmanager" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikcedro&repo=3dprintmanager&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=171717&hide_border=true&locale=en" /></a></div>
+
+
+
+## Statistics
+<br/>
+<div align="center">
+<img width="500" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=dominikcedro&theme=algolia&hide_border=false"/>
+<img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=dominikcedro&theme=algolia&show_icons=true&hide_border=false&count_private=true"/>
+<img width="400" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominikcedro&layout=pie&theme=algolia"/>
+
+<br>
+</div>
